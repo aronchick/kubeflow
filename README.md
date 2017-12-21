@@ -69,6 +69,8 @@ effort in a portable fashion between different environments.
 
 For more detailed instructions about how to use Kubeflow please refer to the [user guide](user_guide.md)
 
+If you'd like to try out Kubeflow, we've partnerned with Katacoda to offer a browser based walkthrough. You can try that [here](https://www.katacoda.com/kubeflow).
+
 ## Get involved
 
 * [Slack Channel](https://join.slack.com/t/kubeflow/shared_invite/enQtMjgyMzMxNDgyMTQ5LWUwMTIxNmZlZTk2NGU0MmFiNDE4YWJiMzFiOGNkZGZjZmRlNTExNmUwMmQ2NzMwYzk5YzQxOWQyODBlZGY2OTg)
